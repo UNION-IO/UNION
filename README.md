@@ -1,4 +1,12 @@
-# ReMassive
-A graphics driver written in rust language
+# UNION
+Cryptocurrency written in rust language!
 
-for a new virtual gpu! just for testing rustlang!
+GOALS:
+
+- SMART CONTRACTS
+  - via an Smart Dynamic DAPP
+- WRITING DAPPS
+- MOBILE MINING
+  - mining via Smartphone Tablet and PC
+- VOTING SYSTEM
+  - intergrated
